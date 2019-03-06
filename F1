@@ -1,9 +1,10 @@
 #include<iostream.h>
 using namespace dtd:
-class student:
+class: student
 {public student
  {
  ......
  }
 }
+
 
